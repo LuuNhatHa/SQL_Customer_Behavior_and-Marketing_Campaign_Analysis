@@ -14,36 +14,36 @@
 - **Source:** Marketing Campaign Dataset
 - **Size:** 2,240 rows × 29 columns
 - **Key Fields:**
-- Personal Information
-ID: Unique identifier for each customer
-Year_Birth: Customer's year of birth
-Education: Level of education
-Marital_Status: Marital status (e.g., Single, Married, Divorced)
-Income: Annual household income
-Kidhome: Number of children in the household
-Teenhome: Number of teenagers in the household
-Dt_Customer: Date the customer enrolled with the company
-Recency: Number of days since the customer's last purchase
-Complain: 1 if the customer has complained in the last 2 years, 0 otherwise
+**Personal Information**
+- ID: Unique identifier for each customer
+- Year_Birth: Customer's year of birth
+- Education: Level of education
+- Marital_Status: Marital status (e.g., Single, Married, Divorced)
+- Income: Annual household income
+- Kidhome: Number of children in the household
+- Teenhome: Number of teenagers in the household
+- Dt_Customer: Date the customer enrolled with the company
+- Recency: Number of days since the customer's last purchase
+- Complain: 1 if the customer has complained in the last 2 years, 0 otherwise
 
-- Product Spending
-MntWines: Amount spent on wine in the last 2 years
-MntFruits: Amount spent on fruits in the last 2 years
-MntMeatProducts: Amount spent on meat in the last 2 years
-MntFishProducts: Amount spent on fish in the last 2 years
-MntSweetProducts: Amount spent on sweets in the last 2 years
-MntGoldProds: Amount spent on gold products in the last 2 years
+**Product Spending**
+- MntWines: Amount spent on wine in the last 2 years
+- MntFruits: Amount spent on fruits in the last 2 years
+- MntMeatProducts: Amount spent on meat in the last 2 years
+- MntFishProducts: Amount spent on fish in the last 2 years
+-- MntSweetProducts: Amount spent on sweets in the last 2 years
+- MntGoldProds: Amount spent on gold products in the last 2 years
 
-- Promotion Campaigns
-NumDealsPurchases: Number of purchases made with discounts
-AcceptedCmp1 to AcceptedCmp5: 1 if the customer accepted the offer in campaign 1 to 5
-Response: 1 if the customer accepted the offer in the last (most recent) campaign
+**Promotion Campaigns**
+- NumDealsPurchases: Number of purchases made with discounts
+- AcceptedCmp1 to AcceptedCmp5: 1 if the customer accepted the offer in campaign 1 to 5
+- Response: 1 if the customer accepted the offer in the last (most recent) campaign
 
-- Purchase Channels
-NumWebPurchases: Number of purchases made through the company’s website
-NumCatalogPurchases: Number of purchases made using a catalog
-NumStorePurchases: Number of purchases made directly in physical stores
-NumWebVisitsMonth: Number of visits to the company’s website in the last month
+**Purchase Channels**
+- NumWebPurchases: Number of purchases made through the company’s website
+- NumCatalogPurchases: Number of purchases made using a catalog
+- NumStorePurchases: Number of purchases made directly in physical stores
+- NumWebVisitsMonth: Number of visits to the company’s website in the last month
 
 ## Tools Used
 - **SQL Server** — For data cleaning, preprocessing, feature engineering, and querying insights.
