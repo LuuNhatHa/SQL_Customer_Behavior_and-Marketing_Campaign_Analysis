@@ -8,7 +8,7 @@
 - Analyze customer demographics, purchasing behavior, and promotional response.
 - Measure the effectiveness of marketing campaigns.
 - Identify customer segments and spending patterns based on age, income, education, and shopping channels.
-- 
+
 ## Dataset Overview
 
 - **Source:** Marketing Campaign Dataset
