@@ -9,7 +9,7 @@
 - Measure the effectiveness of marketing campaigns.
 - Identify customer segments and spending patterns based on age, income, education, and shopping channels.
 - 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Source:** Marketing Campaign Dataset
 - **Size:** 2,240 rows × 29 columns
