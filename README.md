@@ -14,6 +14,7 @@
 - **Source:** Marketing Campaign Dataset
 - **Size:** 2,240 rows × 29 columns
 - **Key Fields:**
+
 **Personal Information**
 - ID: Unique identifier for each customer
 - Year_Birth: Customer's year of birth
